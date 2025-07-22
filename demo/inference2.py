@@ -5,7 +5,6 @@ from datasets.CCPR import CCPRCalculator
 from datasets.difference_map import process_single_image_pair
 from models.Alpha_BLIP.inference import AlphaBlipSingleInference
 
-# Hugging Face imports for YOLO-World
 from transformers import AutoProcessor, AutoModelForZeroShotObjectDetection
 import torch
 from PIL import Image
