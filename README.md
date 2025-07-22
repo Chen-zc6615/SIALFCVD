@@ -17,7 +17,7 @@ cd SIALFCVD
 
 # Create virtual environment
 python -m venv myenv
-source myvenv/bin/activate 
+source myenv/bin/activate 
 
 # Install dependencies
 pip install -r requirements.txt
