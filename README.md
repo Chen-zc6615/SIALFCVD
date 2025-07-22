@@ -50,8 +50,15 @@ python demo/demo1.py --image_path demo/test.jpg --cvd_type 0 --cvd_levels 60
 #cvd_type = {0: "Protanopia",  1: "Deuteranopia",  2: "Tritanopia"}
 #cvd_levels = {0, 10, 20, 30, ... 100}
 ```
-# example
-input image
+### example
+#### input image:
+![test](https://github.com/user-attachments/assets/eaf5e871-0bf7-472d-ab85-83e8f2a80628)
+#### output format:
+```
+Detection Results using prompt: 'the tomato is red.'
+Found 1 objects:
+  1. Label: the tomato is red., Score: 0.705, Box: [147.54, 111.75, 268.46, 226.24]
+```
 
 
 ## 📄 License
