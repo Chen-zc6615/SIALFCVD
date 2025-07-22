@@ -5,8 +5,8 @@ A deep learning-based computer vision project for color vision deficiency
 
 ## 📋 Requirements
 
-- Python 3.9+
-- 8GB+ GPU memory 
+- Python 3.11
+- 16GB+ GPU memory 
 
 ## 🛠️ Installation
 
