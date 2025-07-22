@@ -49,6 +49,9 @@ python demo/demo1.py --image_path demo/test.jpg --cvd_type 0 --cvd_levels 60
 # simulate with machado method
 #cvd_type = {0: "Protanopia",  1: "Deuteranopia",  2: "Tritanopia"}
 #cvd_levels = {0, 10, 20, 30, ... 100}
+```
+# example
+input image
 
 
 ## 📄 License
