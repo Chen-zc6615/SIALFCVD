@@ -12,7 +12,7 @@ A deep learning-based computer vision project for color vision deficiency
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/SIALFCVD.git
+git clone https://github.com/Chen-zc6615/SIALFCVD.git
 cd SIALFCVD
 
 # Create virtual environment
