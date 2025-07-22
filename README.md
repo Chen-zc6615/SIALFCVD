@@ -29,7 +29,7 @@ wget https://huggingface.co/Chen-Zhencheng/Alpha_BLIP_CVD/resolve/main/alpha_bli
 
 
 
-## 🏗️ Project Structure
+## 📁 Project Structure
 
 ```
 SIALFCVD/
@@ -42,7 +42,7 @@ SIALFCVD/
 ├── requirements.txt       
 └── README.md                         
 ```
-
+## 🎮 Demo
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
