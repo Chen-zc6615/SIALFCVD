@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 # Download model's weight
 cd checkpoints
-wget https://huggingface.co/Chen-Zhencheng/Alpha_BLIP_CVD/resolve/main/pytorch_model.pt
+wget https://huggingface.co/Chen-Zhencheng/Alpha_BLIP_CVD/resolve/main/alpha_blip_cvd.pt
 ```
 
 
