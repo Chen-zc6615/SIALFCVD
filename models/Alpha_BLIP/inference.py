@@ -13,7 +13,7 @@ from models.Alpha_BLIP.model.alpha_blip import AlphaBlipForConditionalGeneration
 
 class AlphaBlipSingleInference:
     def __init__(self, 
-                 checkpoint_path="models/Alpha_BLIP/checkpoints/checkpoint_epoch_4.pt", 
+                 checkpoint_path="checkpoints/alpha_blip_cvd.pt", 
                  base_model="Salesforce/blip-image-captioning-base"
                  ):
         """
