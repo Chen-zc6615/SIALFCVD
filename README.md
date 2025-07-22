@@ -66,21 +66,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - Author: chenzc
-- Email: your.email@example.com
-- Project Link: https://github.com/your-username/SIALFCVD
+- Email: threechen6615@gmail.com
 
 ## 🔄 Changelog
 
-### v1.0.0 (2025-01-XX)
+### v1.0.0 (2025-07-20)
 - Initial release
-- Support for basic object detection and multi-modal functionality
-- Integrated Gradio interface
 
-### v0.9.0 (2025-01-XX)
-- Added YOLO World support
-- Optimized model loading speed
-- Fixed known issues
-
----
-
-⭐ If this project helps you, please give it a star!
