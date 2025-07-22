@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [Hugging Face](https://huggingface.co/) - Multi-modal model support
 
 
-## 📞 Contact
+## ✉️ Contact
 
 - Author: chenzc
 - Email: threechen6615@gmail.com
