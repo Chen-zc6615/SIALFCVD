@@ -43,15 +43,6 @@ SIALFCVD/
 └── README.md                         
 ```
 
-## 🔧 Configuration
-
-Main configuration files are located in the `configs/` directory:
-
-- `model_config.yaml`: Model parameter configuration
-- `data_config.yaml`: Data path configuration
-- `train_config.yaml`: Training parameter configuration
-
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
