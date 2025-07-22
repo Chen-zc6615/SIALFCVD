@@ -5,31 +5,31 @@ A deep learning-based computer vision project for color vision deficiency
 
 ## 📋 Requirements
 
-- Python 3.9+
-- 8GB+ GPU memory 
+- Python 3.11
+- 16GB+ GPU memory 
 
 ## 🛠️ Installation
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/SIALFCVD.git
+git clone https://github.com/Chen-zc6615/SIALFCVD.git
 cd SIALFCVD
 
 # Create virtual environment
 python -m venv myenv
-source myvenv/bin/activate 
+source myenv/bin/activate 
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Download model's weight
 cd checkpoints
-wget https://huggingface.co/Chen-Zhencheng/Alpha_BLIP_CVD/resolve/main/pytorch_model.pt
+wget https://huggingface.co/Chen-Zhencheng/Alpha_BLIP_CVD/resolve/main/alpha_blip_cvd.pt
 ```
 
 
 
-## 🏗️ Project Structure
+## 📁 Project Structure
 
 ```
 SIALFCVD/
@@ -42,7 +42,7 @@ SIALFCVD/
 ├── requirements.txt       
 └── README.md                         
 ```
-
+## 🎮 Demo
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -54,9 +54,9 @@ This project is licensed under the [MIT License](LICENSE).
 - [Hugging Face](https://huggingface.co/) - Multi-modal model support
 
 
-## 📞 Contact
+## ✉️ Contact
 
-- Author: chenzc
+- Author: Chenzc
 - Email: threechen6615@gmail.com
 
 ## 🔄 Changelog
