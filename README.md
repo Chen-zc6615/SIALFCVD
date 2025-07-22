@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ✉️ Contact
 
-- Author: chenzc
+- Author: Chenzc
 - Email: threechen6615@gmail.com
 
 ## 🔄 Changelog
